@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CHENNA-NAGESH](https://github.com/CHENNA-NAGESH)
 
-- 💬 Ask me about **C,C++,PYTHON**
+- 💬 Ask me about **C,C++,PYTHON,HTML,CSS**
 
 - 📫 How to reach me **nageshch9966@gmail.com**
 
