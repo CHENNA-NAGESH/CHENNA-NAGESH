@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **coding skills**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **FULLSTACK WEB DEVOLOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CHENNA-NAGESH](https://github.com/CHENNA-NAGESH)
 
