@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenna-nagesh" alt="chenna-nagesh" /></a> </p>
 
-- 🔭 I’m currently working on **coding skills**
+- 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT**
 
 - 🌱 I’m currently learning **FULLSTACK WEB DEVOLOPMENT**
 
