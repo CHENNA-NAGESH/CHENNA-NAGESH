@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenna-nagesh" alt="chenna-nagesh" /></a> </p>
 
-- 🔭 I’m currently working on **FULL STACK WEB DEVELOPMENT**
+- 🔭 I’m currently working on **DATA STRUCTURES AND ALGORITHMS**
 
-- 🌱 I’m currently learning **FULLSTACK WEB DEVOLOPMENT**
+- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CHENNA-NAGESH](https://github.com/CHENNA-NAGESH)
 
