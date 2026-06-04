@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=CHENNA-NAGESH&show_icons=true&locale=en" alt="CHENNA-NAGESH" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=CHENNA-NAGESH" alt="CHENNA-NAGESH" /></p>
+<p><img align="center" src="https://streak-stats.vercel.app/?user=CHENNA-NAGESH" alt="CHENNA-NAGESH" /></p>
