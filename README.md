@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **DATA STRUCTURES AND ALGORITHMS**
 
-- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/CHENNA-NAGESH](https://github.com/CHENNA-NAGESH)
 
 - 💬 Ask me about **C,C++,PYTHON,HTML,CSS**
